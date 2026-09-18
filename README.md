@@ -22,4 +22,4 @@ A quick look at what I'm up to:
 ## 📬 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/josephmarcellgultom/)
-- [Website](https://joseph-marcell-981b.vercel.app)
+- [Website](https://joseph-gultom.xyz)
